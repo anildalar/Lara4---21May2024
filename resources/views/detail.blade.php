@@ -1,4 +1,5 @@
 @extends('layouts.master')
+
 @section('mymain')
-    <main>Home Page</main>
+    <main>Detail Page</main>
 @endsection
