@@ -1,0 +1,16 @@
+
+header{
+    height: 100px;
+    background-color: #131921;
+    border:2px dashed red;
+    color:#fff;
+}
+main{
+    height: 1200px;
+    background-color: #fff;
+    border:2px dashed red;
+}
+footer{
+    height: 500px;
+    background-color: #232F3E;
+}
